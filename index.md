@@ -24,3 +24,6 @@ Agent Orange
 Agent Orange is a herbicide that causes plants to die and lose their leaves. Agent Orange got its name from the orange band on the barrels it was stored in. It was used to take away jungle cover that the Vietcong could hide in, along with killing their food supply. The problems with using Agent Orange is that it contained a contaminate called dioxin. Because of this contaminate, it was the only weapon that’s usage hurt people on both sides of the war. All the weapons are dangerous, but this one is the most dangerous exclusively because it hurt the people using it.
 
 ![Agent Orange](image3.jpg)
+
+
+[Works Cited](bibliography.md)
