@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+The Improved Weapons of the Vietnam War
+=======================================
 
-You can use the [editor on GitHub](https://github.com/enicely/history-project-american-history/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+M16 rifle
+---------
+The M16 rifle, also known as the AR-15, was a weapon that was designed to have improved reliability in conditions of Vietnam. Vietnam had a lot of rainstorms that made it hard for most weapons to be reliable. Not only was it reliable but it was lightweight and accurate relative to other rifles. Even today it is still used in the military. That said, it’s just a rifle so it is not the most dangerous.
+!(image4.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Flamethrower
+------------
+Flamethrowers were developed during WWI by Germany. They work by using a propellant and a incendiary. The incendiary that was used was Napalm. They only have a continuous firing time of less than a minute. They excelled at clearing out vegetation that could be used as cover and killing people in foxholes. The flamethrower is considerably more dangerous than the m16 rifle as it burns everything it is pointed at, but it isn’t the most dangerous as it has a relatively short amount of firing time.
+!(image2.jpg)
 
-### Markdown
+Napalm
+------
+Napalm is a gel-like substance with gasoline in it. The name “napalm” comes from naphthene and palmitate. The most dangerous part about it is that it sticks to whatever it touches while burning. Not only does it cause burns but it also kills by asphyxiation. It is used in both bombs and flamethrowers. It’s use wasn’t banned, but its usage was limited to when it can save civilian lives. Napalm is equally as dangerous as a flamethrower because it is the incendiary. 
+!(image1.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/enicely/history-project-american-history/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Agent Orange
+------------
+Agent Orange is a herbicide that causes plants to die and lose their leaves. Agent Orange got its name from the orange band on the barrels it was stored in. It was used to take away jungle cover that the Vietcong could hide in, along with killing their food supply. The problems with using Agent Orange is that it contained a contaminate called dioxin. Because of this contaminate, it was the only weapon that’s usage hurt people on both sides of the war. All the weapons are dangerous, but this one is the most dangerous exclusively because it hurt the people using it.
+!(image3.jpg)
